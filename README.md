@@ -1,81 +1,61 @@
-# Developer Name <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center">
 
-## 👨‍💻 Software Developer | Based Worldwide
+# Cognalis 💼
 
-Passionate about building scalable applications and writing clean code
+### Developer
 
-### 🔭 Current Focus
-- Building awesome web applications
-- Contributing to open source
-- Learning cloud technologies
+Eyuuu
 
-### 🌱 2026 Goals
-- Master system design
-- Contribute to major open source projects
-- Build a SaaS product
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careercraft.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CognalisSolutions)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://careercraft.dev/)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 What I Do
 
-```typescript
-const skills = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
-  backend: ["Node.js", "Express", "Django", "FastAPI"],
-  database: ["MongoDB", "PostgreSQL", "Redis"],
-  devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
-  tools: ["Git", "VS Code", "Postman", "Figma"]
-};
-```
+Enduku bey
 
-## 📊 GitHub Activity
+## 🛠️ Tech Stack
 
-<details>
-  <summary>📈 Statistics</summary>
-  <br/>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CognalisSolutions&show_icons=true&theme=github_dark&hide_border=true)
-  
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CognalisSolutions&theme=github-dark-blue&hide_border=true)
-  
-</details>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<details>
-  <summary>💻 Most Used Languages</summary>
-  <br/>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CognalisSolutions&layout=compact&theme=github_dark&hide_border=true)
-  
-</details>
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## 🎯 Featured Projects
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### [Project Name](https://github.com/yourusername/project)
-> Brief description of what this project does
+## 📊 GitHub Stats
 
-**Tech:** React, Node.js, MongoDB
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CognalisSolutions&show_icons=true&theme=radical)
 
-## 📝 Latest Blog Posts
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CognalisSolutions&layout=compact&theme=radical)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
-## 📫 How to Reach Me
+## 🔥 Recent Projects
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+1. **Project Name** - Description of your amazing project
+2. **Another Project** - What makes this project special
+3. **Cool App** - Innovative solution you built
+
+## 📫 Let's Connect
+
+enduku bey
 
 ---
 
 <div align="center">
-
-**"Talk is cheap. Show me the code."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=CognalisSolutions&color=brightgreen)
+  
+### Show some ❤️ by starring some repositories!
 
 </div>
