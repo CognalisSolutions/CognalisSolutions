@@ -1,84 +1,81 @@
-# Hello World! 👋 I'm Your Name
+# Developer Name <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<div align="center">
+## 👨‍💻 Software Developer | Based Worldwide
+
+Passionate about building scalable applications and writing clean code
+
+### 🔭 Current Focus
+- Building awesome web applications
+- Contributing to open source
+- Learning cloud technologies
+
+### 🌱 2026 Goals
+- Master system design
+- Contribute to major open source projects
+- Build a SaaS product
+
+---
+
+## 🚀 Tech Stack
+
+```typescript
+const skills = {
+  languages: ["JavaScript", "TypeScript", "Python", "Java"],
+  frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
+  backend: ["Node.js", "Express", "Django", "FastAPI"],
+  database: ["MongoDB", "PostgreSQL", "Redis"],
+  devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
+  tools: ["Git", "VS Code", "Postman", "Figma"]
+};
+```
+
+## 📊 GitHub Activity
+
+<details>
+  <summary>📈 Statistics</summary>
+  <br/>
   
-  ![Student Developer](https://img.shields.io/badge/Student-Developer-blue?style=for-the-badge)
-  ![Learning](https://img.shields.io/badge/Always-Learning-green?style=for-the-badge)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CognalisSolutions&show_icons=true&theme=github_dark&hide_border=true)
   
-</div>
-
-## 👨‍🎓 About Me
-
-Computer Science student passionate about technology and innovation
-
-- 🎓 Studying Computer Science at [University Name]
-- 📚 Currently learning Full Stack Development
-- 🎯 Interested in Web Development, AI, and Cloud Computing
-- 🌟 Love to code, game, and explore new technologies
-
-## 🛠️ Skills I'm Developing
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Technologies & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-## 📊 My GitHub Journey
-
-<div align="center">
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CognalisSolutions&theme=github-dark-blue&hide_border=true)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CognalisSolutions&show_icons=true&theme=algolia)
+</details>
+
+<details>
+  <summary>💻 Most Used Languages</summary>
+  <br/>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CognalisSolutions&theme=algolia)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CognalisSolutions&layout=compact&theme=github_dark&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CognalisSolutions&layout=compact&theme=algolia)
-  
-</div>
+</details>
 
-## 🌱 Learning Path 2026
+## 🎯 Featured Projects
 
-- [ ] Master Data Structures & Algorithms
-- [ ] Build 10+ projects
-- [ ] Contribute to open source
-- [ ] Learn cloud technologies
-- [ ] Get an internship
+### [Project Name](https://github.com/yourusername/project)
+> Brief description of what this project does
 
-## 🚀 Projects
+**Tech:** React, Node.js, MongoDB
 
-### 1. [Project Name](https://github.com/yourusername/project1)
-Description of your first project
+---
 
-### 2. [Another Project](https://github.com/yourusername/project2)
-What this project is about
+## 📝 Latest Blog Posts
 
-## 💻 Coding Profiles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 💡 LeetCode: [Your Profile](https://leetcode.com/yourprofile)
-- 🏆 HackerRank: [Your Profile](https://www.hackerrank.com/yourprofile)
-- 📝 CodeChef: [Your Profile](https://www.codechef.com/users/yourprofile)
+## 📫 How to Reach Me
 
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
-</div>
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
 <div align="center">
-  
-  **"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie**
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=CognalisSolutions&style=flat-square&color=blue)
-  
+
+**"Talk is cheap. Show me the code."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=CognalisSolutions&color=brightgreen)
+
 </div>
