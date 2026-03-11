@@ -1,14 +1,14 @@
 <div align="center">
 
-# Cognalis 💼
+# Your Name 💼
 
-### Developer
+### Software Developer | Tech Enthusiast
 
-Eyuuu
+Building the future, one line of code at a time
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careercraft.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CognalisSolutions)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://careercraft.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -16,7 +16,10 @@ Eyuuu
 
 ## 🎯 What I Do
 
-Enduku bey
+- 💻 Full-stack development
+- 🎨 UI/UX Design
+- 🚀 Building scalable applications
+- 📱 Mobile app development
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +53,7 @@ Enduku bey
 
 ## 📫 Let's Connect
 
-enduku bey
+Feel free to reach out for collaborations or just a friendly chat!
 
 ---
 
